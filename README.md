@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Chip Layout
+
+**Embryo Chip Layout** is Embryo-Zero's fork of [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # OpenROAD
 
 [![Build Status](https://jenkins.openroad.tools/buildStatus/icon?job=OpenROAD-Public%2Fmaster)](https://jenkins.openroad.tools/job/OpenROAD-Public/job/master/)
