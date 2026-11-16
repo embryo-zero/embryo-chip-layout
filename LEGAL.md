@@ -13,3 +13,7 @@ First lines of those files when we forked (2026-11-16):
 - Running it on our own servers for people (inside the apps) is not handing out the program; we still keep our source public.
 - Chips and layouts people make with it belong to them; the tool's license does not cover what it produces.
 - No warranty beyond what the license says.
+
+## Bundled parts
+- src/sta: OpenSTA, GPL-3.0 (its LICENSE file). Programs built with it are offered under GPL-3.0 with complete source.
+- Other third-party code inside the tree keeps its own notices; check the third-party folders before a release.
